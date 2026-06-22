@@ -40,6 +40,12 @@ I saved the Gold Layer as a Delta Table using `saveAsTable("gold_business_metric
 *   **Membership Segment (Donut Chart)**: Showing that Gold customers contribute to 36% of orders.
 
 ---
+## 📊 Project Visuals & Dashboard
+
+![Lakehouse Setup](1.Lakehouse_setup.png)
+![Spark Execution](2.Pyspar_NB.png)
+![Semantic Model](3.Semantic_Model.png)
+![Power BI Dashboard](4.Final_Dashboard.png)
 
 ## ⚡ Tech Stack Used
 *   **Engine**: PySpark (Spark SQL)
