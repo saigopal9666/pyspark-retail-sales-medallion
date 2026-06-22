@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductCategory,CostPrice,RetailPrice
+PRD901,Smart Watch,Electronics,2500,4999
+PRD902,Mechanical Keyboard,Accessories,1500,text_error
+PRD903,Running Shoes,Fashion,1200,-2000
+PRD904,Coffee Maker,Home Appliances,3000,5500
+PRD905,Bluetooth Speaker,Electronics,1800,3499
+PRD906,Wireless Mouse,Accessories,600,1200
+PRD907,Fitness Tracker,Electronics,2200,4500
+PRD908,Leather Wallet,Fashion,800,1500
+PRD909,Backpack,Fashion,1000,2200
+PRD910,Desk Lamp,Home Appliances,500,999
+PRD911,Smartphone,Electronics,15000,29999
+PRD912,Gaming Headset,Accessories,3500,6999
+PRD913,Sports T-Shirt,Fashion,400,899
+PRD914,Electric Kettle,Home Appliances,1200,2499
+PRD915,Power Bank,Electronics,1000,1999
+PRD916,Wireless Earbuds,Electronics,2000,3999
+PRD917,Gaming Mouse Pad,Accessories,400,799
+PRD918,Sunglasses,Fashion,900,1800
+PRD919,Air Fryer,Home Appliances,4500,7999
+PRD920,Water Bottle,Sports,300,599
+PRD921,Laptop Stand,Accessories,800,1499
+PRD922,HD Webcam,Electronics,2500,4500
+PRD923,Leather Belt,Fashion,500,999
+PRD924,Microwave Oven,Home Appliances,6000,10999
+PRD925,Yoga Mat,Sports,600,1200
+PRD926,Trimmer,Electronics,1200,2199
+PRD927,Extention Cord,Accessories,400,799
+PRD928,Denim Jacket,Fashion,1500,2999
+PRD929,Toaster,Home Appliances,1400,2499
+PRD930,Dumbbells Set,Sports,2000,3800
+PRD931,Gaming Monitor,Electronics,12000,19999
+PRD932,USB-C Hub,Accessories,1100,1999
+PRD933,Sneakers,Fashion,1800,3500
+PRD934,Vacuum Cleaner,Home Appliances,7500,13500
+PRD935,Badminton Racket,Sports,900,1750
+PRD936,Soundbar Speaker,Electronics,5000,8999
+PRD937,Laptop Bag,Accessories,1200,2499
+PRD938,Formal Shirt,Fashion,700,1499
+PRD939,Juicer Mixer,Home Appliances,2800,4999
+PRD940,Treadmill,Sports,25000,45000
+PRD941,External Hard Drive,Electronics,4000,6500
+PRD942,Wireless Charger,Accessories,900,1799
+PRD943,Travel Suitcase,Fashion,3500,6999
+PRD944,Induction Cooktop,Home Appliances,2200,3999
+PRD945,Cricket Bat,Sports,1500,2800
+PRD946,DSLR Camera,Electronics,45000,59999
+PRD947,Bluetooth Dongle,Accessories,300,599
+PRD948,Casual Shoes,Fashion,1000,1999
+PRD949,Room Heater,Home Appliances,2000,3499
+PRD950,Football,Sports,500,999

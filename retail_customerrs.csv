@@ -1,0 +1,52 @@
+CustomerID,CustomerName,City,MembershipType,JoinedDate
+C5001,Mayur Kumar,Hyderabad,Gold,2026-01-10
+C5002, Rajesh Khanna ,Mumbai,Silver,2026-01-12
+C5003,John Smith,New York,Platinum,2026-01-15
+C5001,Mayur Kumar,Hyderabad,Gold,2026-01-20
+C5004,,London,Silver,2026-01-18
+C5005,Anil Sharma,Delhi,Gold,2026-01-05
+C5006,Sita Rao,Bangalore,Silver,2026-01-08
+C5007,David Miller,London,Platinum,2026-01-14
+C5008,Emily Davis,Paris,Gold,2026-01-19
+C5009,Michael Brown,Tokyo,Silver,2026-01-22
+C5010,Sarah Wilson,Sydney,Platinum,2026-01-25
+C5011,Amit Patel,Ahmedabad,Gold,2026-01-26
+C5012,Vikram Singh,Jaipur,Silver,2026-01-28
+C5013,Jessica Taylor,New York,Platinum,2026-01-30
+C5014,Robert Jones,Chicago,Gold,2026-02-01
+C5015,Linda White,Los Angeles,Silver,2026-02-02
+C5016,William Martin,Toronto,Platinum,2026-02-03
+C5017,James Thompson,London,Gold,2026-02-05
+C5018,Patricia Garcia,Madrid,Silver,2026-02-06
+C5019,Charles Martinez,Berlin,Platinum,2026-02-08
+C5020,Barbara Robinson,Boston,Gold,2026-02-10
+C5021,Matthew Clark,Seattle,Silver,2026-02-12
+C5022,Susan Rodriguez,San Francisco,Platinum,2026-02-15
+C5023,Christopher Lewis,Austin,Gold,2026-02-18
+C5024,Nancy Lee,Dallas,Silver,2026-02-20
+C5025,Paul Walker,Miami,Platinum,2026-02-22
+C5026,Helen Hall,Denver,Gold,2026-02-25
+C5027,Mark Allen,Atlanta,Silver,2026-02-28
+C5028,Sandra Young,Phoenix,Platinum,2026-03-02
+C5029,George Hernandez,Houston,Gold,2026-03-05
+C5030,Lisa King,Philadelphia,Silver,2026-03-08
+C5031,Edward Wright,Detroit,Platinum,2026-03-10
+C5032,Donna Lopez,San Diego,Gold,2026-03-12
+C5033,Brian Hill,Minneapolis,Silver,2026-03-15
+C5034,Carol Scott,Seattle,Platinum,2026-03-18
+C5035,Kevin Green,Portland,Gold,2026-03-20
+C5036,Michelle Adams,Salt Lake City,Silver,2026-03-22
+C5037,Ronald Baker,Las Vegas,Platinum,2026-03-25
+C5038,Laura Gonzalez,Miami,Gold,2026-03-28
+C5039,Jason Nelson,Orlando,Silver,2026-03-30
+C5040,Kimberly Carter,Tampa,Platinum,2026-04-02
+C5041,Jeff Mitchell,Nashville,Gold,2026-04-05
+C5042,Deborah Perez,Charlotte,Silver,2026-04-08
+C5043,Gary Roberts,Indianapolis,Platinum,2026-04-10
+C5044,Karen Turner,Columbus,Gold,2026-04-12
+C5045,Timothy Phillips,San Jose,Silver,2026-04-15
+C5046,Amanda Campbell,Austin,Platinum,2026-04-18
+C5047,Jeffrey Parker,Houston,Gold,2026-04-20
+C5048,Janet Evans,Dallas,Silver,2026-04-22
+C5049,Frank Edwards,Phoenix,Platinum,2026-04-25
+C5050,Arun Verma,Noida,Gold,2026-04-28
