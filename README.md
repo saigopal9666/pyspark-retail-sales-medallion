@@ -46,7 +46,7 @@ I saved the Gold Layer as a Delta Table using `saveAsTable("gold_business_metric
 
 
 ---
-## 📊 Project Visuals & Dashboard
+## 📊 Project Visuals & Dashboard[Screenshots]
 
 ![Lakehouse Setup](1.Lakehouse_setup.png)
 ![Spark Execution](2.Pyspark_NB.png)
