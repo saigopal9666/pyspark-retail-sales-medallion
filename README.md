@@ -48,20 +48,7 @@ I saved the Gold Layer as a Delta Table using `saveAsTable("gold_business_metric
 ---
 ## 📊 Project Visuals & Dashboard
 
-### 1. Lakehouse Architecture Setup
-![Lakehouse Setup](1.Lakehouse_setup.png)
 
-### 2. PySpark Execution in Notebook
-![Spark Execution](2.Pyspark_NB.png)
-
-### 3. Direct Lake Semantic Model
-![Semantic Model](3.Semantic_Model.png)
-
-### 4. Interactive Power BI Dashboard
-![Power BI Dashboard](4.Final_Dashboard.png)
-
-### 5. Production Data Pipeline Orchestration
-![Pipeline Orchestration](5.Pipeline_Orchestration.png)
 
 
 
