@@ -39,6 +39,12 @@ I saved the Gold Layer as a Delta Table using `saveAsTable("gold_business_metric
 *   **City-Wise Performance (Bar Chart)**: Showing which cities bring maximum profit.
 *   **Membership Segment (Donut Chart)**: Showing that Gold customers contribute to 36% of orders.
 
+### Step 5: Data Pipeline Orchestration & Automation (Project 3)
+*   Built an enterprise-level **Data Factory Pipeline** to automate the entire Medallion process.
+*   Configured a **Daily Trigger Schedule at 12:00 AM** for automatic daily batch runs.
+*   Implemented a **Data Engineering Dependency Check (On Failure ❌)** connected to Office 365 Outlook to send automated alert emails immediately if the PySpark notebook fails.
+
+
 ---
 ## 📊 Project Visuals & Dashboard
 
@@ -46,6 +52,8 @@ I saved the Gold Layer as a Delta Table using `saveAsTable("gold_business_metric
 ![Spark Execution](2.Pyspark_NB.png)
 ![Semantic Model](3.Semantic_Model.png)
 ![Power BI Dashboard](4.Final_Dashboard.png)
+![Pipeline Orchestration](5.Pipeline_Orchestration.png)
+
 
 ## ⚡ Tech Stack Used
 *   **Engine**: PySpark (Spark SQL)
