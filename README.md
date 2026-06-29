@@ -7,6 +7,37 @@ In this project, I built an End-to-End Data Engineering Pipeline using **PySpark
 
 ---
 
+## 🏗️ High-Level Architecture Flow
+
+```mermaid
+graph TD
+    %% Define Layers
+    A[(Raw CSV Data<br>Customers, Products, Sales)] -->|Ingest with StructType| B[🥉 Bronze Layer<br>Raw/Appended]
+    
+    %% Data Quality Framework
+    B -->|PySpark Transformations| C{Data Quality Checks}
+    C -->|Fails Rules| D[(Quarantine Table<br>Rejected Products)]
+    C -->|Passes Rules| E[🥈 Silver Layer<br>Cleaned, Deduplicated]
+    
+    %% Deduplication logic explicitly shown
+    E -.->|Window Functions| E
+    
+    %% Business Logic
+    E -->|Broadcast Joins & Aggs| F[🥇 Gold Layer<br>Business Metrics]
+    F -->|Direct Lake Connection| G[📊 Power BI Dashboards]
+    
+    %% Styling for clarity
+    style A fill:#2d3748,stroke:#4a5568,color:#fff
+    style B fill:#cd7f32,stroke:#8a5a22,color:#fff
+    style C fill:#4a5568,stroke:#2d3748,color:#fff
+    style D fill:#e53e3e,stroke:#9b2c2c,color:#fff
+    style E fill:#c0c0c0,stroke:#718096,color:#fff
+    style F fill:#ffd700,stroke:#b8860b,color:#000
+    style G fill:#ecc94b,stroke:#b7791f,color:#000
+```
+
+---
+
 ## 🏗️ Project Architecture (Medallion Structure)
 I followed the industry-standard Medallion Architecture to clean and process data step-by-step:
 
